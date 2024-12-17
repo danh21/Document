@@ -1,0 +1,20 @@
+INFO: [HLS 200-10] Running 'D:/xilinx/Vivado/2017.4/bin/unwrapped/win64.o/vivado_hls.exe'
+INFO: [HLS 200-10] For user 'DELL' on host 'danh' (Windows NT_amd64 version 6.2) on Fri Jun 04 10:30:24 +0700 2021
+INFO: [HLS 200-10] In directory 'D:/cd/HWSW/Project/lab4'
+INFO: [HLS 200-10] Opening project 'D:/cd/HWSW/Project/lab4/fir.prj'.
+INFO: [HLS 200-10] Opening solution 'D:/cd/HWSW/Project/lab4/fir.prj/solution1'.
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 8ns.
+INFO: [SYN 201-201] Setting up clock 'default' with an uncertainty of 1ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z010clg400-1'
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+
+****** Vivado v2017.4 (64-bit)
+  **** SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+  **** IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+    ** Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+
+source run_ippack.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/xilinx/Vivado/2017.4/data/ip'.
+INFO: [Common 17-206] Exiting Vivado at Fri Jun  4 10:30:31 2021...

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog/>
+      <simLog/>
+      <mgLog/>
+      <packageLog>
+        <logs message="ERROR: [IMPL 213-28] Failed to generate IP.&#xD;&#xA;command 'ap_source' returned error code&#xD;&#xA;    while executing&#xD;&#xA;&quot;source D:/cd/HWSW/Project/lab4/fir.prj/solution1/export.tcl&quot;&#xD;&#xA;    invoked from within&#xD;&#xA;&quot;hls::main D:/cd/HWSW/Project/lab4/fir.prj/solution1/export.tcl&quot;&#xD;&#xA;    (&quot;uplevel&quot; body line 1)&#xD;&#xA;    invoked from within&#xD;&#xA;&quot;uplevel 1 hls::main {*}$args&quot;&#xD;&#xA;    (procedure &quot;hls_proc&quot; line 5)&#xD;&#xA;    invoked from within&#xD;&#xA;&quot;hls_proc $argv&quot;&#xD;&#xA;" projectName="fir.prj" solutionName="solution1" date="2022-06-04T10:24:15.198+0700"/>
+        <logs message="ERROR: [IMPL 213-28] Failed to generate IP.&#xD;&#xA;command 'ap_source' returned error code&#xD;&#xA;    while executing&#xD;&#xA;&quot;source D:/cd/HWSW/Project/lab4/fir.prj/solution1/export.tcl&quot;&#xD;&#xA;    invoked from within&#xD;&#xA;&quot;hls::main D:/cd/HWSW/Project/lab4/fir.prj/solution1/export.tcl&quot;&#xD;&#xA;    (&quot;uplevel&quot; body line 1)&#xD;&#xA;    invoked from within&#xD;&#xA;&quot;uplevel 1 hls::main {*}$args&quot;&#xD;&#xA;    (procedure &quot;hls_proc&quot; line 5)&#xD;&#xA;    invoked from within&#xD;&#xA;&quot;hls_proc $argv&quot;&#xD;&#xA;" projectName="fir.prj" solutionName="solution1" date="2022-06-04T10:22:06.099+0700"/>
+      </packageLog>
+      <csimLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog>
+        <logs message="WARNING: [SCHED 204-21] The critical path consists of the following:&#xD;&#xA;&#x9;'mul' operation ('tmp_5', fir.c:21) (3.36 ns)&#xD;&#xA;&#x9;'add' operation ('acc', fir.c:21) (3.02 ns)&#xD;&#xA;&#x9;s_axi write on port 'y' (fir.c:23) (1 ns)" projectName="fir.prj" solutionName="solution1" date="2022-06-04T10:21:05.061+0700" type="Warning"/>
+        <logs message="WARNING: [SCHED 204-21] Estimated clock period (7.38ns) exceeds the target (target clock period: 8ns, clock uncertainty: 1ns, effective delay budget: 7ns)." projectName="fir.prj" solutionName="solution1" date="2022-06-04T10:21:05.051+0700" type="Warning"/>
+        <logs message="WARNING: [HLS 200-40] Skipped source file 'fir_coef.dat'. Source files must have extensions .c, .C, .cc, .cpp, .c++, .cp, or .cxx." projectName="fir.prj" solutionName="solution1" date="2022-06-04T10:21:00.141+0700" type="Warning"/>
+      </synLog>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

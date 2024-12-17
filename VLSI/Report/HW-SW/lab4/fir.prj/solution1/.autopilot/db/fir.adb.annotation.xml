@@ -1,0 +1,18 @@
+<annotationInfo>
+<annotationInfo>
+<item  id="14" filename="fir.c" linenumber="16" name="acc" contextFuncName="fir" moduleName="fir" rtlName="fir_mul_mul_16s_1bkb_U1" latency="0" BRAM="-1" DSP="-1" FF="-1" LUT="-1" fileDirectory="D:\cd\HWSW\Project\lab4"></item>
+<item  id="15" filename="fir.c" linenumber="16" name="acc_cast" contextFuncName="fir" moduleName="fir" rtlName="acc_cast_fu_146_p1" latency="0" BRAM="-1" DSP="-1" FF="-1" LUT="-1" fileDirectory="D:\cd\HWSW\Project\lab4"></item>
+<item  id="20" filename="fir.c" linenumber="17" name="tmp_3" contextFuncName="fir" moduleName="fir" rtlName="tmp_3_fu_149_p2" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="11" fileDirectory="D:\cd\HWSW\Project\lab4"></item>
+<item  id="27" filename="fir.c" linenumber="18" name="i_1" contextFuncName="fir" moduleName="fir" rtlName="i_1_fu_155_p2" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="15" fileDirectory="D:\cd\HWSW\Project\lab4"></item>
+<item  id="28" filename="fir.c" linenumber="18" name="tmp_s" contextFuncName="fir" moduleName="fir" rtlName="tmp_s_fu_161_p1" latency="0" BRAM="-1" DSP="-1" FF="-1" LUT="-1" fileDirectory="D:\cd\HWSW\Project\lab4"></item>
+<item  id="32" filename="fir.c" linenumber="18" name="tmp_6" contextFuncName="fir" moduleName="fir" rtlName="tmp_6_fu_166_p1" latency="0" BRAM="-1" DSP="-1" FF="-1" LUT="-1" fileDirectory="D:\cd\HWSW\Project\lab4"></item>
+<item  id="36" filename="fir.c" linenumber="18" name="tmp_1" contextFuncName="fir" moduleName="fir" rtlName="fir_mac_muladd_16cud_U2" latency="0" BRAM="-1" DSP="-1" FF="-1" LUT="-1" fileDirectory="D:\cd\HWSW\Project\lab4"></item>
+<item  id="37" filename="fir.c" linenumber="18" name="tmp_10_cast" contextFuncName="fir" moduleName="fir" rtlName="fir_mac_muladd_16cud_U2" latency="0" BRAM="-1" DSP="-1" FF="-1" LUT="-1" fileDirectory="D:\cd\HWSW\Project\lab4"></item>
+<item  id="38" filename="fir.c" linenumber="18" name="acc_2" contextFuncName="fir" moduleName="fir" rtlName="fir_mac_muladd_16cud_U2" latency="0" BRAM="-1" DSP="-1" FF="-1" LUT="-1" fileDirectory="D:\cd\HWSW\Project\lab4"></item>
+<item  id="44" filename="fir.c" linenumber="17" name="tmp_2" contextFuncName="fir" moduleName="fir" rtlName="grp_fu_209_p2" latency="0" BRAM="-1" DSP="-1" FF="-1" LUT="-1" fileDirectory="D:\cd\HWSW\Project\lab4"></item>
+<item  id="46" filename="fir.c" linenumber="21" name="tmp_5" contextFuncName="fir" moduleName="fir" rtlName="fir_mac_muladd_10dEe_U3" latency="0" BRAM="-1" DSP="-1" FF="-1" LUT="-1" fileDirectory="D:\cd\HWSW\Project\lab4"></item>
+<item  id="47" filename="fir.c" linenumber="21" name="tmp_5_cast" contextFuncName="fir" moduleName="fir" rtlName="fir_mac_muladd_10dEe_U3" latency="0" BRAM="-1" DSP="-1" FF="-1" LUT="-1" fileDirectory="D:\cd\HWSW\Project\lab4"></item>
+<item  id="48" filename="fir.c" linenumber="21" name="acc_1" contextFuncName="fir" moduleName="fir" rtlName="fir_mac_muladd_10dEe_U3" latency="0" BRAM="-1" DSP="-1" FF="-1" LUT="-1" fileDirectory="D:\cd\HWSW\Project\lab4"></item>
+<item  id="50" filename="fir.c" linenumber="23" name="tmp_8" contextFuncName="fir" moduleName="fir" rtlName="y" latency="0" BRAM="-1" DSP="-1" FF="-1" LUT="-1" fileDirectory="D:\cd\HWSW\Project\lab4"></item>
+</annotationInfo>
+</annotationInfo>
