@@ -1,4 +1,4 @@
-RM0090_STM32F407
+rm0090-stm32f405415-stm32f407417-stm32f427437-and-stm32f429439-advanced-armbased-32bit-mcus-stmicroelectronics
 	main HWM
 	features
 	registers
